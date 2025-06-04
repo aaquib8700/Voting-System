@@ -1,1 +1,1 @@
-created a Voting System in solidity in which different candidates can register themselves and voters can vote for different candidates but only once 
+A simple decentralized voting system built with Solidity. This smart contract allows adding candidates and voting for them. Each address can vote once per candidate to prevent duplicate voting.
